@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-management-system",
+  "version": "1.0.0",
+  "description": "Complete Offline Restaurant Management & POS System",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": ["restaurant", "pos", "offline-first", "mongodb", "react", "express", "nodejs", "tailwind"],
+  "author": "Antigravity",
+  "license": "ISC"
+}

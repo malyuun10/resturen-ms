@@ -1,0 +1,16 @@
+# Node modules (faylalka waaweyn ee biblioteka-yada)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production/Build folders
+dist/
+client/dist/
+build/
+
+# Private/Environment Variables (sida passwords-ka)
+.env
+server/.env
+
+# Logs
+*.log
